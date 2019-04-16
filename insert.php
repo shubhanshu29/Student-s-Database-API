@@ -13,23 +13,23 @@
 <center><br><br>
 	<form method="post">
 		<div class="form-group">
-    		<label for="formGroupExampleInput">Enrollment Number</label>
+    		<label>Enrollment Number</label>
     		<input type="number" class="form-control" name="roll" placeholder="Enrollment Number">
   		</div><br>
   		<div class="form-group">
-    		<label for="formGroupExampleInput2">Name</label>
+    		<label>Name</label>
     		<input type="text" class="form-control" name="name" placeholder="Name">
   		</div><br>
   		<div class="form-group">
-    		<label for="formGroupExampleInput3">Semester</label>
+    		<label>Semester</label>
     		<input type="number" class="form-control" name="semester" placeholder="semester">
   		</div><br>
   		<div class="form-group">
-    		<label for="formGroupExampleInput4">CGPA</label>
+    		<label>CGPA</label>
     		<input type="text" class="form-control" name="cgpa" placeholder="CGPA">
   		</div><br>
   		<div class="form-group">
-    		<label for="formGroupExampleInput5">Branch</label>
+    		<label>Branch</label>
     		<input type="text" class="form-control" name="branch" placeholder="branch">
   		</div><br><br>
   		 <input type="submit" class="btn btn-primary" value="Click to insert this info" name="transfer">
